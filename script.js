@@ -5,7 +5,7 @@ let count = 0;
 let countMaxLimit = 11;
 
 // Nice job with the selectors!
-// You could also use querySelector for all the elements below instead of getElementById, but it's entirely up to you!
+// You could also use querySelector for all the elements below instead of getElementById, but it's entirely up to you.
 const counterDisplay = document.getElementById("counter");
 const increaseButton = document.getElementById("increase");
 const decreaseButton = document.getElementById("decrease");
